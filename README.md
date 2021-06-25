@@ -27,7 +27,7 @@ python run.py
 
 
 ## Dataset
-* The dataset was available on [Kaggle](https://www.kaggle.com/andrewmvd/face-mask-detection) with a total of 853 annotated images in PASCAL VOC format with each image having multiple instances of faces belonging to 3 classes:'with_mask', 'without_mask' and 'mask_weared_incorrect'.
+* The dataset is available on [Kaggle](https://www.kaggle.com/andrewmvd/face-mask-detection) as this date(Jun 25, 2021) with a total of 853 annotated images in PASCAL VOC format with each image having multiple instances of faces belonging to 3 classes:'with_mask', 'without_mask' and 'mask_weared_incorrect'.
 * Upon extraction, a total of 4072 face crops were found.
 * A few samples in the dataset:
 ![Samples](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F793761%2Fd0744f78b0471c0605b98debd7b2d88d%2FUntitled.png?generation=1590132045583855&alt=media "Sample")
