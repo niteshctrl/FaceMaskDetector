@@ -9,7 +9,7 @@
 
 
 ## Setup and Demo
-* To install the dependecies in the current environment:
+* To install the dependencies in the current environment:
 ```
 pip install requirements.txt
 ```
